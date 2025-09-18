@@ -1,0 +1,12 @@
+.highlight{
+    display: block;
+    width: fit-content;
+}
+
+.logo {
+    font-size: xx-large;
+}
+
+.hero {
+    height: 60vh;
+}
